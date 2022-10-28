@@ -14,8 +14,9 @@
 En este primer proyecto realizamos un proceso ETL a partir de un conjunto de datos que vienen de diversas fuentes.
 
 ### Tabla de Contenido
-- Directorio ('Datasets relevamiento precios')
+- Archivo .txt con el link del drive donde están los datasets limpios y la base de datos PI01henry.db
 - Notebook de python DataEngineering.ipynb
+- Notebook de python D_E_data_wrangling.ipynb
 - Diagrama de flujo de trabajo.jpg
 - Base de datos SQLite PI01henry.db
 
