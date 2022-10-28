@@ -14,6 +14,7 @@
 En este primer proyecto realizamos un proceso ETL a partir de un conjunto de datos que vienen de diversas fuentes.
 
 ### Tabla de Contenido
+- [PI01nery.db y CSVs limpios](https://drive.google.com/drive/folders/1ubkZiZ8km2HHCHyt8AKTNG99R0pDz2DN?usp=share_link)
 - Archivo .txt con el link del drive donde están los datasets limpios y la base de datos PI01henry.db
 - Notebook de python DataEngineering.ipynb
 - Notebook de python D_E_data_wrangling.ipynb
